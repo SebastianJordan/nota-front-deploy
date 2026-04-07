@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nota-front:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-04-06T23:51:32.063922-05:00"
+    description: Frontend de la aplicación de notas
+    digest: 0771f11a04fb0998e3cd3cbd555c09038e0aa394c910577c586a85f29fdf6cd5
+    name: nota-front
+    type: application
+    urls:
+    - https://sebastianjordan.github.io/nota-front-deploy/nota-front-1.0.0.tgz
+    version: 1.0.0
+generated: "2026-04-06T23:51:32.062952-05:00"
